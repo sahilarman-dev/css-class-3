@@ -1,0 +1,127 @@
+.category {
+    width: 150px;
+    padding: 20px 40px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.category {
+    margin: 0px 5px;
+}
+
+.category a:hover {
+    color: orangered;
+}
+
+.category a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    width: fit-content;
+    margin: auto;
+}
+
+.product {
+    width: 300px;
+    font-family: Arial;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.product a {
+    text-decoration: none;
+    color: black;
+}
+
+.parent {
+    width: fit-content;
+    margin: auto;
+}
+
+.product img {
+    width: 100%;
+}
+
+.product p {
+    text-align: justify;
+    line-height: 150%;
+}
+
+.product a:hover {
+    color: orangered;
+    text-decoration: underline
+}
+
+.product h4 {
+    color: orangered;
+    font-size: 18px;
+}
+
+.product span {
+    text-decoration: line-through;
+    font-size: 13px;
+    color: gray;
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+}
+
+h1 span {
+    font-size: 18px;
+}
+
+.creative img {
+    width: 350px;
+}
+
+.creative h5 {
+    color: orangered;
+    font-size: 16px;
+    font-family: arial;
+}
+
+.creative h4 {
+    font-size: 20px;
+    font-family: arial;
+}
+
+#review {
+    color: rgb(202, 192, 192);
+    font-size: 15px;
+}
+
+#course {
+    color: rgb(87, 81, 81);
+}
+
+.creative {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px 30px;
+}
+
+.row2 {
+    margin: auto;
+    width: fit-content;
+}
+
+button a {
+    text-decoration: none;
+    width: 100px;
+    display: block;
+    line-height: 25px;
+    background-color: white;
+    color: rgb(173, 40, 40);
+    font-family: arial;
+    border-radius: 5px;
+}
+
+button a:hover {
+    background-color: orangered;
+    color: white;
+}
